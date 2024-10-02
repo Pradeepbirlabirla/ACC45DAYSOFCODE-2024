@@ -1,0 +1,17 @@
+#include<stdio.h>
+void main()
+{
+  int a,b;
+  a=10;
+  printf("enter marks");
+  scanf("%d",&b);
+  if (a<b);
+  {
+    printf("true");
+    }
+  else
+    {
+    printf("false");
+    }
+  }
+  
